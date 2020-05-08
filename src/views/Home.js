@@ -25,4 +25,6 @@ export default class Home {
     navigateTo = (item) => {
         Ame.navigate(item.to)
     }
+
+
 }
